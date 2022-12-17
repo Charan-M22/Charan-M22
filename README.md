@@ -1,5 +1,5 @@
-                                                                       👋 Hello there, I’m Charan Muthukumaran.
-                                                                                CSE Student at VIT Vellore.
+👋 Hello there, I’m Charan Muthukumaran.
+CSE Student at VIT Vellore.
                                                                                 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/Charan_m=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
