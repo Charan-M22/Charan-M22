@@ -14,7 +14,7 @@ CSE Student at VIT Vellore.</h3>
 </p>
 
 <h3 align="left">Quote for the mind:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+!(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
