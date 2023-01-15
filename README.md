@@ -4,7 +4,6 @@ CSE Student at VIT Vellore.</h3>
 <h3 align="center">A passionate frontend developer from India.</h3>
                                                                                 
 <img align="center" src="https://leetcode.card.workers.dev/?username=Charan_m&theme=dark" alt="LeetCode Stats"/>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
