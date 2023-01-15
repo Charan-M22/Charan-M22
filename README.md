@@ -1,5 +1,5 @@
 <div><h2 align="center">👋 Hello there, I’m Charan Muthukumaran. CSE Student at VIT Vellore.</h2>
-<h3>A passionate frontend developer from India.</h3></div>
+<h3 align="center">A passionate frontend developer from India.</h3></div>
                                                                                 
 <img align="center" src="https://leetcode.card.workers.dev/?username=Charan_m&theme=dark" alt="LeetCode Stats"/>
 
