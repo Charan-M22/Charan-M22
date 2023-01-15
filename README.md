@@ -1,4 +1,4 @@
-<div><h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I’m Charan Muthukumaran. CSE Student at VIT Vellore.</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello there, I’m Charan Muthukumaran. CSE Student at VIT Vellore </h2>
 <h3 align="center">A passionate frontend developer from India.</h3></div>
                                                                                 
 <img align="center" src="https://leetcode.card.workers.dev/?username=Charan_m&theme=dark" alt="LeetCode Stats"/>
@@ -14,6 +14,7 @@
 
 ## Quote for the mind:
 ![HTML5](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
